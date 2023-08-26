@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **haldian18/haldian18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+![readmebox](https://github.com/haldian18/haldian18/assets/57083312/2640bfcd-fdb2-4872-a450-a07dccbabfb1)
